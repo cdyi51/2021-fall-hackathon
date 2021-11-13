@@ -21,7 +21,7 @@ How to code in html and CSS
 How to use Python in conjunction with other coding languages
 
 Team members/contributions:
-Audrey came up with the idea to make a quiz about Pokemon. Audrey and Christina made the questions together, and Audrey put each question into a function that added points to each Pokemon variable. Christina consulted TAs and figured out how to combine the Python elements and HTML code correctly, allowing for the helper functions to be called and overall link the submit button to everything. She then created a result function to return the final Pokemon. Christina pointed out that errors were occuring due to the conditionals being coded incorrectly, so Audrey fixed each function to make the if-else statements nested.
+Audrey came up with the idea to make a quiz about Pokemon. Audrey and Christina made the questions together, and Audrey put each question into a function that added points to each Pokemon variable. Christina consulted TAs and figured out how to combine the Python elements and HTML code correctly, allowing for the helper functions to be called and overall link the submit button to everything. She then created a result function to return the final Pokemon. Christina pointed out that errors were occuring due to the conditionals being coded incorrectly, so Audrey fixed each function to make the if-else statements nested. Christina searched styling for HTML and changed the background color and centered text.
 
 Goals Achieved:
 Successfully wrote functions for each question
